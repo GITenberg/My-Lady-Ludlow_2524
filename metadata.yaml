@@ -1,0 +1,41 @@
+_repo: My-Lady-Ludlow_2524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Stevenson, Elizabeth
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Gaskell, Mrs.
+    - Mills, Cotton Mather
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: "My Lady Ludlow is a novel (over 77,000 words in the Project Gutenberg\
+  \ text) by Elizabeth Gaskell. It appeared in the magazine Household Words in 1858,\
+  \ and was republished in Round the Sofa in 1859, with framing passages added at\
+  \ the start and end.\nIt recounts the daily lives of the widowed Countess of Ludlow\
+  \ of Hanbury and the spinster Miss Galindo, whose father was a Baronet, and their\
+  \ caring for other single women and girls. It is also concerned with Lady Ludlow's\
+  \ man of business, Mr Horner, and a poacher's son named Harry Gregson whose education\
+  \ he provides for.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2524'
+  wikidata: Q16387198
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: My Lady Ludlow
+url: http://www.gutenberg.org/ebooks/2524
+wikipedia:
+- https://en.wikipedia.org/wiki/My_Lady_Ludlow
