@@ -1,5 +1,8 @@
 _repo: My-Lady-Ludlow_2524
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gaskell, Elizabeth Cleghorn
@@ -22,6 +25,8 @@ description: "My Lady Ludlow is a novel (over 77,000 words in the Project Gutenb
   \ caring for other single women and girls. It is also concerned with Lady Ludlow's\
   \ man of business, Mr Horner, and a poacher's son named Harry Gregson whose education\
   \ he provides for.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2524#My-Lady-Ludlow
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
 identifiers:
